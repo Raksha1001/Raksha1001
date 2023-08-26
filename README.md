@@ -8,11 +8,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raksha kirar" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="raksha kirar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raksha kirar" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" alt="raksha kirar" height="30" width="40" /></a> <a href="https://www.facebook.com/profile.php?id=100068756900266&mibextid=2JQ9oc" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-color-icon.png" alt="Sanjana kirar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=shQTXiDQiQVR&format=png" alt="C" height="30" width="40" </a> <br> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=3BTBsJs5myRy&format=png" alt="CSS" height="30" width="40" /></a> <br><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=Q5FXgRZybr2A&format=png" width="40" height="30" alt="HTML" /> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=shQTXiDQiQVR&format=png" alt="C" height="30" width="40" </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=3BTBsJs5myRy&format=png" alt="CSS" height="30" width="40" /></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=Q5FXgRZybr2A&format=png" width="40" height="30" alt="HTML" /> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.svg" alt="javascript" height="30" width="40" </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" alt="C" height="30" width="40" </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raksha1001&show_icons=true&locale=en&layout=compact" alt="raksha1001" /></p>
 
